@@ -10,4 +10,4 @@ Fire Label is a custom UILabel, with fire effect, written in [Swift](https://dev
 The font that is used in the example image above is Rave King by Darrell Flood. It can be downloaded from [dafont](https://www.dafont.com/rave-king.font). It is not included in this project.
 
 ### Add custom font:
-To add a custom font to the project, follow this guideline from Apple: (https://developer.apple.com/documentation/uikit/text_display_and_fonts/adding_a_custom_font_to_your_app)
+To add a custom font to the project, follow this [guideline](https://developer.apple.com/documentation/uikit/text_display_and_fonts/adding_a_custom_font_to_your_app) from Apple.
